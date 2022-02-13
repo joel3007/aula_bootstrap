@@ -1,0 +1,30 @@
+body {
+    font: 20px Arial sans-serif;
+}
+
+.navbar {
+    background-color: #c6d8e2;
+}
+
+.abouttext {
+    background-color: #F2F2F2;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.partners {
+    background-color:#e0e0e0;
+    text-align: justify;
+}
+
+.services {
+    background-color: #F2F2F2;
+}
+
+.bg-footer {
+    background-color: #e0e0e0;
+    font-style: italic;
+}
